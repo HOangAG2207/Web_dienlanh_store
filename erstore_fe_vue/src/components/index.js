@@ -1,0 +1,8 @@
+export { default as HeaderPrimary } from './HeaderPrimary.vue'
+export { default as FooterPrimary } from './FooterPrimary.vue'
+export { default as RegisterLetter } from './RegisterLetter.vue'
+export { default as HomeSlider } from './HomeSlider.vue'
+export { default as InfoSaleTrans } from './InfoSaleTrans.vue'
+export { default as SaleProduct } from './product/SaleProduct.vue'
+export { default as ProductHomeCategory } from './ProductHomeCategory.vue'
+export { default as ProductTab } from './ProductTab.vue'
